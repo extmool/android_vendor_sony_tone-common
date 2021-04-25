@@ -1,2 +1,2 @@
-# android_vendor_sony_tone-common
+# Common vendor tree for Sony tone devices
  
